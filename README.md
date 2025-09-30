@@ -10,9 +10,9 @@
 
 | Nombre Completo | Código  | Rol            | Correo Electrónico                          |
 | --------------- | ------- | -------------- | ------------------------------------------- |
-| Bryan Steven O  | 2459353 | [Colaborador]  | [bryan.steven.ospina@correounivalle.edu.co] |
-| Lopez B. Karen  | 2459519 | [Colaborador]  | [karen.sofia.lopez@correounivalle.edu.co]   |
-| Arce Jhorian D  | 2459537 | [Colaborador]  | [jhorian.arce@correounivalle.edu.co]        |
+| Bryan Steven O  | 2459353 | [Colaborador]  | bryan.steven.ospina@correounivalle.edu.co   |
+| Lopez B. Karen  | 2459519 | [Colaborador]  | karen.sofia.lopez@correounivalle.edu.co     |
+| Arce Jhorian D  | 2459537 | [Colaborador]  | jhorian.arce@correounivalle.edu.co          |
 
 ---
 
