@@ -1,18 +1,18 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/lEw1Qm1j)
-# Asignación: [Nombre de la asignación]
+# Asignación: FUNCIONAL Y CONCURRENTE
 
-**Fecha:** [DD/MM/AAAA]
-**Curso:** [Nombre del Curso]
+**Fecha:** [06/10/2025]
+**Curso:** [PROGRAMACION]
 
 ---
 
 ## 👥 Integrantes del Grupo
 
-| Nombre Completo | Código | Rol            | Correo Electrónico        |
-| --------------- | ------ | -------------- | ------------------------- |
-| [Estudiante 1]  | 123456 | [Líder/Colab.] | [correo1@institucion.edu] |
-| [Estudiante 2]  | 123457 | [Colaborador]  | [correo2@institucion.edu] |
-| [Estudiante 3]  | 123458 | [Colaborador]  | [correo3@institucion.edu] |
+| Nombre Completo | Código  | Rol            | Correo Electrónico                          |
+| --------------- | ------- | -------------- | ------------------------------------------- |
+| Bryan Steven O  | 2459353 | [Colaborador]  | [bryan.steven.ospina@correounivalle.edu.co] |
+| Lopez B. Karen  | 2459519 | [Colaborador]  | [karen.sofia.lopez@correounivalle.edu.co]   |
+| Arce Jhorian D  | 2459537 | [Colaborador]  | [jhorian.arce@correounivalle.edu.co]        |
 
 ---
 
