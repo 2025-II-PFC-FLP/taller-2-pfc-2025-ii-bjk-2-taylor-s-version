@@ -18,5 +18,4 @@
 
 ## 📌 Descripción de la Asignación
 
-[Breve párrafo explicando el propósito y objetivos del taller (4-6 líneas). Ejemplo:]
-_"Este taller busca analizar [tema principal] mediante [metodología]. Los objetivos incluyen [objetivo 1], [objetivo 2] y [objetivo 3], aplicando conceptos vistos en clase como [concepto relevante]."_
+Este taller busca analizar las operaciones fundamentales sobre conjuntos clásicos y difusos mediante la implementación de funciones recursivas y funcionales en Scala. Los objetivos incluyen desarrollar la capacidad de modelar conceptos matemáticos en código, aplicar principios de programación funcional como la recursividad y la inmutabilidad, y verificar la correcta ejecución mediante pruebas unitarias. Se aplican conceptos vistos en clase como igualdad, inclusión, unión, intersección y complemento de conjuntos, tanto en su forma tradicional como en el contexto de la lógica difusa.
