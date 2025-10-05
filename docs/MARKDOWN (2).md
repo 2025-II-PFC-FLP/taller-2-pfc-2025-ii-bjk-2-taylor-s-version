@@ -79,10 +79,16 @@ A ⊆ B ⟺ (∀x ∈ A ⇒ x ∈ B)
 ### **Diagrama de Pila (Mermaid)**
 ```mermaid
 graph TD
-  A["inclusion(a, b)"] --> B["a.toSet"]
-  A --> C[b.toSet]
-  B --> D[subsetOf(b)]
-  D --> E[Retorna true o false]
+  A["inclusion(a, b)"]
+B["a.toSet"]
+C["b.toSet"]
+D["subsetOf(b)"]
+E["Retorna true o false"]
+
+A --> B
+A --> C
+B --> D
+D --> E
 ```
 
 ### **Informe de Corrección**
@@ -124,13 +130,21 @@ A ∪ B = {x | x ∈ A ∨ x ∈ B}
 ### **Diagrama de Pila (Mermaid)**
 ```mermaid
 graph TD
-  A["union(a, b)"] --> B["concat(a, b)"]
-  B --> C[unionI(c, resultado)]
-  C --> D[¿x ya está en resultado?]
-  D -->|Sí| E[Ignorar elemento]
-  D -->|No| F[Agregar x a resultado]
-  E --> G[Siguiente elemento]
-  F --> G
+  A["union(a, b)"]
+B["concat(a, b)"]
+C["unionI(c, resultado)"]
+D["x en resultado?"]
+E["Ignorar elemento"]
+F["Agregar x a resultado"]
+G["Siguiente elemento"]
+
+A --> B
+B --> C
+C --> D
+D -->|Sí| E
+D -->|No| F
+E --> G
+F --> G
 ```
 
 ### **Informe de Corrección**
@@ -224,10 +238,16 @@ class Grande {
 ### **Diagrama de Pila (Mermaid)**
 ```mermaid
 graph TD
-  A["grande(d,e)"] --> B["λ(n => (n/(n+d))^e)"]
-  A --> C[union(a,b)]
-  A --> D[interseccion(a,b)]
-  A --> E[complemento(a)]
+  A["grande(d, e)"]
+B["lambda n -> (n/(n + d))^e"]
+C["union(a, b)"]
+D["interseccion(a, b)"]
+E["complemento(a)"]
+
+A --> B
+A --> C
+A --> D
+A --> E
 ```
 
 ### **Informe de Corrección**
